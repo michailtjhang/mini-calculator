@@ -1,5 +1,5 @@
 # About Calculator
-This is a simple calculator. It can add, subtract, multiply, divide and percentage. This project was created by [Michail Kostadinov](https://github.com/michailtjhang)
+This is a simple calculator. It can add, subtract, multiply, divide and percentage. This project was created by [Michail Tjhang](https://github.com/michailtjhang)
 
 ## How to use
 1. Open the link "https://michailtjhang.github.io/mini-calculator/"
